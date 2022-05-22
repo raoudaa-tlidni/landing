@@ -1,0 +1,24 @@
+
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/card.css");
+
+
+
+
+body {
+
+   font-family: sans-serif;
+   font-size: 20px;
+   margin: 0px;
+
+}
+h1,h2,h3 { 
+   font-family: courrier;
+   font-weight: bold;
+}
+a {
+   text-decoration: none;
+}
+
